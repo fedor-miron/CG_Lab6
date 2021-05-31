@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CG_Lab6.dir/main.cpp.o -o CG_Lab6  /usr/lib/libglbinding-aux.so.3.1.0 /usr/lib/libglfw.so.3.3 /usr/lib/libglbinding.so.3.1.0 -pthread -ldl 
